@@ -1,0 +1,8 @@
+{
+    "uuid": "hearts-clock@tiphares",
+    "name": "Hearts Clock",
+    "description": "This extension displays hearts which empty up until bedtime.",
+    "version": 1,
+    "shell-version": [ "3.38", "43", "43.3" ],
+    "url": ""
+}

@@ -1,0 +1,9 @@
+.empty-heart {
+    font-size: 1.5em;
+    color: black;
+}
+
+.full-heart {
+    font-size: 1.5em;
+    color: red;
+}
